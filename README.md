@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-https://github.com/silion987/Bootcamp-Project-1/blob/main/Diagrams/Project-1-diagram (Images/diagram_filename.png)
+(<a href="https://app.diagrams.net/#G1nJUW_WU0VHyIeWn5iw__U4BkCp_Xq9Fc">Images/diagram_filename.png</a>)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
